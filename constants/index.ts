@@ -301,20 +301,20 @@ export const Developers = [
     link: "https://react-portfolio-ashy-two.vercel.app/",
     gmail: "mailto:baropark@gmail.com"
   },
-  // {
-  //   title: "Frontend Developer",
-  //   description: "Willem Jansen",
-  //   image: "/about/small (5).jfif",
-  //   link: "",
-  //   gmail: "mailto:baropark@gmail.com"
-  // },
-  // {
-  //   title: "Frontend Developer",
-  //   description: "Jackson Smith",
-  //   image: "/about/small (6).jfif",
-  //   link: "",
-  //   gmail: "mailto:baropark@gmail.com"
-  // },
+  {
+    title: "Frontend Developer",
+    description: "Willem Jansen",
+    image: "/about/small (5).jfif",
+    link: "https://new-portfolio-nu-pied.vercel.app/",
+    gmail: "mailto:baropark@gmail.com"
+  },
+  {
+    title: "Frontend Developer",
+    description: "Jackson Smith",
+    image: "/about/small (6).jfif",
+    link: "https://next-portfolio-wheat-iota.vercel.app/",
+    gmail: "mailto:baropark@gmail.com"
+  },
 ] as const;
 
 export const Services_Info = [
